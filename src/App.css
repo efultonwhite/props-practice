@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.props {
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+}
+.app {
+    margin-top: 3rem;
+}
